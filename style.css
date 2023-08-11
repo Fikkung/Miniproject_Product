@@ -1,10 +1,11 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Playfair', sans-serif;
     margin: 0;
     padding: 0;
 }
 h1, h2 {
     text-align: center;
+    font-family: 'Playfair', sans-serif;
 }
 form, table {
     margin: 20px auto;
@@ -52,7 +53,7 @@ button:hover {
 
 /* กำหนดพื้นหลังหน้าเว็บ */
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Playfair', sans-serif;
     margin: 0;
     padding: 0;
     background-color: #f4f4f4;
